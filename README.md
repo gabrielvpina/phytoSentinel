@@ -25,3 +25,8 @@ I am thinking in the following steps:
 3. Use ML to find the start/end postitions of the region with domains;
 4. Execute BLASTn w/ custom database of NLR/PRRs genes;
 5. Predict exonic and intronic regions (?)
+
+### 4. Perspectives
+
+- I'm fucked and I need to study c++;
+- the max length of pyhmmer is 1000000 AA, I need to break down all sequences to analyse;
